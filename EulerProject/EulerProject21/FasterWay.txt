@@ -1,0 +1,41 @@
+int findFirstPrime(int x) {
+    for (int i = 2; i <= sqrt(x); ++i) {
+        if (x % i == 0)
+            return i;
+    }
+    return x;
+}
+
+(int, int) calulateTerm(int x, int p) {
+    int sum = 0;
+    for( int f = 1; x % f == 0; f = f * p) {
+        sum += f;
+    }
+    return (sum, f / p);
+}
+
+void f(int N) {
+    int[] table = new int[N + 1];
+    table[1] = 1;
+
+    for (int i = 2; i <= N; ++i) {
+        //table[i]
+        int p = findFirstPrime(i);
+        //calculate 1 + p + p^2 ...p^k, k is the lagest number such that p^k divides i
+        //for example, i = 24, p = 2, we need to caluculate 
+        //  1 + 2 + 2^2 + 2^3
+
+        int sum, maxFactorByP;
+        sum, maxFactorByP = calculate(i, p);
+        // sum = 1 + 2 + 2^2 + 2^3, maxFactorByP = 2^3
+
+        //i = (2 ^ 3) * (i / 2^3)
+        table [i] = sum * table[i / `maxFactorByP`];
+    }
+    //fix the table
+    for (int i = 1; i < table.length; ++i) {
+        table[i] = table[i] - i;
+    }
+}
+
+
