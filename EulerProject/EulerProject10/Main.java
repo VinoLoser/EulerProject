@@ -1,4 +1,6 @@
-public class  Main{
+package EulerProject.EulerProject10;
+
+public class Main {
     public static void main(String[] args) {
         long sum = 0l;
         for (int number = 2; number < 20000000; number++) {

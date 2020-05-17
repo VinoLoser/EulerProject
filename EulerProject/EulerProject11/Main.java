@@ -1,3 +1,5 @@
+package EulerProject.EulerProject11;
+
 public class Main {
     public static void main(String[] args) {
         int largestProduct = 0;

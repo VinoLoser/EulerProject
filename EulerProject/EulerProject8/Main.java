@@ -1,3 +1,5 @@
+package EulerProject.EulerProject8;
+
 public class Main {
     public static void main(String[] args) {
         long largestValue = 0l;

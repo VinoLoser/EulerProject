@@ -1,3 +1,5 @@
+package EulerProject.EulerProject1;
+
 public class Main {
     public static void main(String[] args) {
         int currentNumber = 0;

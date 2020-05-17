@@ -1,4 +1,6 @@
-public class FindLargestPrimeNumber{
+package EulerProject.EulerProject3;
+
+public class FindLargestPrimeNumber {
     public static void main(String[] args) {
         LargestPrimeNumber ex=new LargestPrimeNumber();
         //findPrimeNumber(2, 0,Integer.parseInt(args[0]));

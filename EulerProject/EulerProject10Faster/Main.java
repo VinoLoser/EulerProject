@@ -1,4 +1,6 @@
-public class Main{
+package EulerProject.EulerProject10Faster;
+
+public class Main {
     public static void main(String[] args) {
         int size = 2000000;
         boolean [] array = new boolean[size];
