@@ -21,18 +21,17 @@ public class FasterWay {
     private static int divideAndCheckNum(int d) {
         HashMap<Integer, Integer> map = new HashMap<>();
         int n = 1;
-        for (int pos = 0; pos < 1000; pos++) {
+        for (;;) {
             int temp = n;
             n %= d;
             if (n < d) {
                 n*=10;
             }
             if (map.containsKey(n/10)) {
-                return pos - map.get(n/10);
+                return map.size() - map.get(n/10);
             }
-            map.put(temp%d, pos);
+            map.put(temp%d, map.size());
         }
-        return 0;
     }
     
 }
