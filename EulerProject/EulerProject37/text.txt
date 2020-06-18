@@ -1,0 +1,6 @@
+queue = 2,3,5,7
+when queue is not empty
+take and save first number to x and then remove it
+then we append 1, 3, 7, 9 at end of x respectively, and call it y
+if the y is prime then we put it at end of queue
+if the y is trunkable then we add to sum
