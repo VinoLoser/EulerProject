@@ -1,7 +1,5 @@
 package EulerProject.EulerProject43;
 
-import java.util.Arrays;
-
 public class Main {
     public static void main(String[] args) {
         int[] array = findTotalSum();
@@ -104,7 +102,6 @@ public class Main {
             array[pos] = num;
             num--;
         }
-        int[] finishArray = {1,2,3,4,5,6,7,8,9};
         // actually do stuff to array
         int[] sum = new int[20];
         for (; ;) {

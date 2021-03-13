@@ -1,7 +1,5 @@
 package EulerProject.EulerProject45;
 
-import java.util.HashMap;
-
 public class Main {
     public static void main(String[] args) {
         for (int n = 166; ; n++) {
