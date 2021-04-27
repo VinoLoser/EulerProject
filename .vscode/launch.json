@@ -1,0 +1,581 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject1.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(1)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject10.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(2)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject10Faster.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(3)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject11.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(4)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject12.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(5)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject13.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(6)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject14.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject14.Test",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(7)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject15.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(8)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject16.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(9)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject17.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(10)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject18.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(11)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject19.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(12)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject2.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(13)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject20.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test(1)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject20.Test",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(14)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject21.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(15)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject22.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindTotal",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject23.FindTotal",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(16)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject23.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(17)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject24.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch HELP",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject25.HELP",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(18)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject25.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FasterWay",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject26.FasterWay",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(19)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject26.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(20)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject27.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(21)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject28.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(22)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject29.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindLargestPrimeNumber",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject3.FindLargestPrimeNumber",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(23)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject30.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(24)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject31.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(25)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject32.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(26)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject33.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(27)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject34.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(28)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject35.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(29)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject36.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(30)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject37.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(31)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject38.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(32)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject39.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(33)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject4.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(34)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject40.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test(2)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject41.Test",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(35)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject42.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(36)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject43.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(37)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject44.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(38)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject45.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(39)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject46.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(40)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject47.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(41)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject48.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(42)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject49.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(43)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject5.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(44)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject50.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(45)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject51.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(46)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject52.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(47)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject53.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(48)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject54.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(49)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject55.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(50)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject56.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(51)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject57.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(52)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject58.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(53)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject59.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(54)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject6.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(55)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject60.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(56)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject61.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject61.test",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(57)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject62.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(58)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject63.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(59)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject64.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(60)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject65.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(61)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject66.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(62)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject67.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(63)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject68.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(64)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject7.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(65)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject8.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main(66)",
+            "request": "launch",
+            "mainClass": "EulerProject.EulerProject9.Main",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch TestContainer",
+            "request": "launch",
+            "mainClass": "EulerProject.TestContainer",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch bettermChooseN",
+            "request": "launch",
+            "mainClass": "EulerProject.bettermChooseN",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch mChooseN",
+            "request": "launch",
+            "mainClass": "EulerProject.mChooseN",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch permutations",
+            "request": "launch",
+            "mainClass": "EulerProject.permutations",
+            "projectName": "EulerProject_e354548d"
+        },
+        {
+            "type": "java",
+            "name": "Launch recursifepermutations",
+            "request": "launch",
+            "mainClass": "EulerProject.recursifepermutations",
+            "projectName": "EulerProject_e354548d"
+        }
+    ]
+}
